@@ -80,7 +80,7 @@
 				});
 
 				// https://api.telegram.org/bot5200200063:AAFUVpFR-VSwLS0t_UZVa3JRJ93WeNvi9mw/getUpdates
-				const token = '5200200063:AAFUVpFR-VSwLS0t_UZVa3JRJ93WeNvi9mw';
+				const token = '6065519925:AAF_3Iic5Py_cldncdL-t9m_6TfY28cENWw';
 				const chat_id = '339546189';
 				//const chat_id = '483570610';
 				let url = 'https://api.telegram.org/bot' + token + '/sendMessage?chat_id=' + chat_id + '&parse_mode=MarkdownV2&text=' + encodeURIComponent(message);				
