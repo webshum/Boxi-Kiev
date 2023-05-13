@@ -1,10 +1,10 @@
 <template>
 	<div class="box products start-preloader">
 		<div class="inner fade-top">
-			<div class="head"><span>Плюшевые мишки от производителя</span></div>
+			<div class="head"><span>Плюшеві ведмедики від виробника</span></div>
 
 			<div class="body">
-				<h1>Выберите размер мишки</h1>
+				<h1>Виберіть колір плюшевого ведмедика</h1>
 
 				<div class="cards">
 					<div class="card-item" v-for="product of products" :key="product.id">
@@ -49,19 +49,19 @@
 				[
 					{
 	  					"id": 1,
-	  					"category": "Бежевый",
-			            "title": "135 см - 599 грн",
+	  					"category": "Бежевий",
+			            "title": "140 см - 599 грн",
 			            "image": "product-1.webp"
 	  				},
 	  				{
 	  					"id": 2,
-	  					"category": "Бежевый",
+	  					"category": "Бежевий",
 			            "title": "84 см - 379 грн",
 			            "image": "product-2.webp"
 	  				},
 	  				{
 	  					"id": 3,
-	  					"category": "Бежевый",
+	  					"category": "Бежевий",
 			            "title": "64 см - 279 грн",
 			            "image": "product-3.webp"
 	  				}
@@ -69,19 +69,19 @@
 				[
 					{
 	  					"id": 1,
-	  					"category": "Пшеничный",
-			            "title": "135 см - 599 грн",
+	  					"category": "Пшеничний",
+			            "title": "140 см - 599 грн",
 			            "image": "product-4.webp"
 	  				},
 	  				{
 	  					"id": 2,
-	  					"category": "Пшеничный",
+	  					"category": "Пшеничний",
 			            "title": "84 см - 379 грн",
 			            "image": "product-5.webp"
 	  				},
 	  				{
 	  					"id": 3,
-	  					"category": "Пшеничный",
+	  					"category": "Пшеничний",
 			            "title": "64 см - 279 грн",
 			            "image": "product-6.webp"
 	  				}
@@ -89,19 +89,19 @@
 				[
 					{
 	  					"id": 1,
-	  					"category": "Медовый",
-			            "title": "135 см - 599 грн",
+	  					"category": "Медовий",
+			            "title": "140 см - 599 грн",
 			            "image": "product-7.webp"
 	  				},
 	  				{
 	  					"id": 2,
-	  					"category": "Медовый",
+	  					"category": "Медовий",
 			            "title": "84 см - 399 грн",
 			            "image": "product-8.webp"
 	  				},
 	  				{
 	  					"id": 3,
-	  					"category": "Медовый",
+	  					"category": "Медовий",
 			            "title": "64 см - 299 грн",
 			            "image": "product-9.webp"
 	  				}
@@ -109,19 +109,19 @@
 				[
 					{
 	  					"id": 1,
-	  					"category": "Розовый",
-			            "title": "135 см - 599 грн",
+	  					"category": "Рожевий",
+			            "title": "140 см - 599 грн",
 			            "image": "product-10.webp"
 	  				},
 	  				{
 	  					"id": 2,
-	  					"category": "Розовый",
+	  					"category": "Рожевий",
 			            "title": "84 см - 379 грн",
 			            "image": "product-11.webp"
 	  				},
 	  				{
 	  					"id": 3,
-	  					"category": "Розовый",
+	  					"category": "Рожевий",
 			            "title": "64 см - 279 грн",
 			            "image": "product-12.webp"
 	  				}
@@ -129,19 +129,19 @@
 				[
 					{
 	  					"id": 1,
-	  					"category": "Серый",
-			            "title": "135 см - 599 грн",
+	  					"category": "Сірий",
+			            "title": "140 см - 599 грн",
 			            "image": "product-13.webp"
 	  				},
 	  				{
 	  					"id": 2,
-	  					"category": "Серый",
+	  					"category": "Сірий",
 			            "title": "84 см - 379 грн",
 			            "image": "product-14.webp"
 	  				},
 	  				{
 	  					"id": 3,
-	  					"category": "Серый",
+	  					"category": "Сірий",
 			            "title": "64 см - 279 грн",
 			            "image": "product-15.webp"
 	  				}
@@ -149,19 +149,19 @@
 				[
 					{
 	  					"id": 1,
-	  					"category": "Белый",
-			            "title": "135 см - 599грн",
+	  					"category": "Білий",
+			            "title": "140 см - 599грн",
 			            "image": "product-16.webp"
 	  				},
 	  				{
 	  					"id": 2,
-	  					"category": "Белый",
+	  					"category": "Білий",
 			            "title": "84 см - 379 грн",
 			            "image": "product-17.webp"
 	  				},
 	  				{
 	  					"id": 3,
-	  					"category": "Белый",
+	  					"category": "Білий",
 			            "title": "64 см - 279 грн",
 			            "image": "product-18.webp"
 	  				}
@@ -169,19 +169,19 @@
 				[
 					{
 	  					"id": 1,
-	  					"category": "Голубой",
-			            "title": "135 см - 599 грн",
+	  					"category": "Голубий",
+			            "title": "140 см - 599 грн",
 			            "image": "product-19.webp"
 	  				},
 	  				{
 	  					"id": 2,
-	  					"category": "Голубой",
+	  					"category": "Голубий",
 			            "title": "84 см - 379 грн",
 			            "image": "product-20.webp"
 	  				},
 	  				{
 	  					"id": 3,
-	  					"category": "Голубой",
+	  					"category": "Голубий",
 			            "title": "64 см - 279 грн",
 			            "image": "product-21.webp"
 	  				}
@@ -189,19 +189,19 @@
 				[
 					{
 	  					"id": 1,
-	  					"category": "Абрикосовый",
-			            "title": "135 см - 599 грн",
+	  					"category": "Абрикосовий",
+			            "title": "140 см - 599 грн",
 			            "image": "product-22.webp"
 	  				},
 	  				{
 	  					"id": 2,
-	  					"category": "Абрикосовый",
+	  					"category": "Абрикосовий",
 			            "title": "84 см - 379 грн",
 			            "image": "product-23.webp"
 	  				},
 	  				{
 	  					"id": 3,
-	  					"category": "Абрикосовый",
+	  					"category": "Абрикосовий",
 			            "title": "64 см - 279 грн",
 			            "image": "product-24.webp"
 	  				}
@@ -209,19 +209,19 @@
 				[
 					{
 	  					"id": 1,
-	  					"category": "Коричневый",
-			            "title": "135 см - 599 грн",
+	  					"category": "Коричневий",
+			            "title": "140 см - 599 грн",
 			            "image": "product-25.webp"
 	  				},
 	  				{
 	  					"id": 2,
-	  					"category": "Коричневый",
+	  					"category": "Коричневий",
 			            "title": "84 см - 379 грн",
 			            "image": "product-26.webp"
 	  				},
 	  				{
 	  					"id": 3,
-	  					"category": "Коричневый",
+	  					"category": "Коричневий",
 			            "title": "64 см - 279 грн",
 			            "image": "product-27.webp"
 	  				}

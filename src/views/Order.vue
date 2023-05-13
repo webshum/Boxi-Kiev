@@ -2,19 +2,19 @@
 	<div class="box order start-preloader">
 		<div class="inner fade-top">
 			<div>
-				<div class="head"><span>Плюшевые мишки от производителя</span></div>
+				<div class="head"><span>Плюшеві ведмедики від виробника</span></div>
 
 				<div class="body">
-					<h1>Выберите способ доставки</h1>
+					<h1>Виберіть спосіб доставки</h1>
 					<ul class="links-list">
 						<li>
-							<a @click.prevent="next" :href="'/checkout/Новая почта/' + this.$route.params.title + '/' + this.$route.params.category ">
-								<span>Новая почта</span>
+							<a @click.prevent="next" :href="'/checkout/Нова Пошта/' + this.$route.params.title + '/' + this.$route.params.category ">
+								<span>Нова Пошта</span>
 							</a>
 						</li>
 						<li>
-							<a @click.prevent="next" :href="'/checkout/Курьерская доставка/' + this.$route.params.title + '/' + this.$route.params.category ">
-								<span>Курьерская доставка</span>
+							<a @click.prevent="next" :href="'/checkout/Курєрська доставка/' + this.$route.params.title + '/' + this.$route.params.category ">
+								<span>Кур'єрська доставка</span>
 							</a>
 						</li>
 						<li>
@@ -23,8 +23,8 @@
 							</a>
 						</li>
 						<li>
-							<a @click.prevent="next" :href="'/checkout/Укрпочта/' + this.$route.params.title + '/' + this.$route.params.category ">
-								<span>Укрпочта</span>
+							<a @click.prevent="next" :href="'/checkout/Укрпошта/' + this.$route.params.title + '/' + this.$route.params.category ">
+								<span>Укрпошта</span>
 							</a>
 						</li>
 					</ul>
@@ -44,11 +44,11 @@
 					</div>
 					<div>
 						<h3>Владислав</h3>
-						<p>Ваш личный<br>консультант</p>
+						<p>Ваш особистий<br>помічник</p>
 					</div>					
 				</div>
 
-				<div class="message">Просто выберите способ , а менеджер уточнит у вас все детали :)</div>
+				<div class="message">Просто виберіть спосіб, а менеджер уточнить у вас усі деталі по телефону:)</div>
 			</aside>
 		</div>		
 	</div>
