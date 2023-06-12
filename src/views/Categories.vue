@@ -42,7 +42,6 @@
   			Swiper.use([Navigation]);
 
   			const swiper = new Swiper('.swiper', {
-  				loop: true,
   				slidesPerView: 4,
   				spaceBetween: 15,
 	  			navigation: {

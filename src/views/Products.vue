@@ -51,7 +51,7 @@
 	  					"id": 1,
 	  					"category": "Бежевий",
 			            "title": "200 см - 1090 грн",
-			            "image": "product-4.webp"
+			            "image": "beige-1.jpg"
 	  				},
 					{
 	  					"id": 2,
